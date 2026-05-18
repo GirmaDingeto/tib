@@ -1,0 +1,2 @@
+theme: jekyll-theme-primer
+exclude: [node_modules, ".github", ".git", ".gitignore"]
